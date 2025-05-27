@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Adriana 
 ## 🤓 I’m a junior developer specializing in front-end web development 
                
-🌱 Tech stack: React - HTML - CSS - JavaScript - and learning Python 
+🌱 Tech stack: React - HTML - CSS - JavaScript - and currently learning Python 
 
 💞️ I’m focusing on strengthening my frontend skills and  collaborating on projects to improve my skills
   
